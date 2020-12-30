@@ -6,3 +6,4 @@ Fortigate SD WAN Demo Lab with 6.4.3
 ![SLA](https://user-images.githubusercontent.com/68915566/103356734-850ea980-4aec-11eb-9236-babced67fc6d.PNG)
 ![SDWAN Rule](https://user-images.githubusercontent.com/68915566/103356817-b38c8480-4aec-11eb-823e-fad046dbef11.PNG)
 ![Sessions](https://user-images.githubusercontent.com/68915566/103356897-dfa80580-4aec-11eb-8a7f-afcf1e842e66.PNG)
+![Network](https://user-images.githubusercontent.com/68915566/103356959-06fed280-4aed-11eb-8c82-887ceccfeb41.PNG)
